@@ -1,0 +1,6 @@
+{
+  "name": "CacheSweep",
+  "description": "Clear all cached app data in one tap using root access, while protecting whitelisted apps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
